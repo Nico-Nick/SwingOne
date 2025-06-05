@@ -50,13 +50,13 @@ public class Main {
             }
         });
 
-
+	// add
         // Adicionando o botaoLogar na janela
         janela.add(botaoLogar);
 
         janela.add(labelUsuario);
         janela.add(labelSenha);
-
+	
         janela.add(campoUsuario);
 
         janela.add(campoSenha);
