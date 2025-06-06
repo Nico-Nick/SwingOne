@@ -29,7 +29,7 @@ public class Main {
         JButton botaoLogar = new JButton("Login");
 
         // Configurar as dimensoes do botaoLogar
-        botaoLogar.setBounds(100, 400, 200, 30);
+        botaoLogar.setBounds(101, 400, 200, 30);
 
         // Para executar alguma coisa se meu botaoLogar for clicado, ex: add interface
         botaoLogar.addActionListener(new ActionListener() {
