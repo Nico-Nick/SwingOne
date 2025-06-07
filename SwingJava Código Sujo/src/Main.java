@@ -28,7 +28,7 @@ public class Main {
         // Adicionar um Button
         JButton botaoLogar = new JButton("Login");
 
-        // Configurar as dimensoes do botaoLogar
+        // Configurar as dimensoes do botaoLogar aa
         botaoLogar.setBounds(101, 400, 200, 30);
 
         // Para executar alguma coisa se meu botaoLogar for clicado, ex: add interface
